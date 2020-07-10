@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Stackoverflow Badge](https://img.shields.io/badge/-josecastillolema-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)](https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)
 [![Gmail Badge](https://img.shields.io/badge/-josecastillolema@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josecastillolema@gmail.com)](mailto:josecastillolema@gmail.com)
 
-Cloud Consultant at **Red Hat**. 
+Cloud Consultant at **@RedHatOfficial**. 
 
 I've been 🎓 teaching Cloud, DevOps and IoT since 2016 at **FIAP** for post-graduate courses. Feel free to check my repos to check some codes and lectures.
 
