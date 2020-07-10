@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 Cloud ☁️ Consultant at **Red Hat**. 
 
-I've been 🎓 teaching Cloud, DevOps and IoT since 2016 at [**FIAP**](https://www.fiap.com.br/) for post-graduate courses. Feel free to check my repos to check some codes and lectures.
+I've been 🎓 teaching Cloud, DevOps and IoT since 2016 at [**FIAP**](https://www.fiap.com.br/mba/) for post-graduate courses. Feel free to check my repos to check some codes and lectures.
 
 > :octocat: [josecastillolema.github.io](https://josecastillolema.github.io)
