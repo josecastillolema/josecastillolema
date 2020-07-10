@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-josecastillolema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-castillo-lema)](https://www.linkedin.com/in/jose-castillo-lema/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-josecastillolema-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)](https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)
 [![Gmail Badge](https://img.shields.io/badge/-josecastillolema@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josecastillolema@gmail.com)](mailto:josecastillolema@gmail.com)
-https://img.shields.io/badge/-openshift-c14438?style=flat-square&logo=red-hat-open-shift&logoColor=white
+![](https://img.shields.io/badge/-openshift-c14438?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 
 Cloud ☁️ Consultant at **Red Hat**. 
 
