@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 [![Stackoverflow Badge](https://img.shields.io/badge/-josecastillolema-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)](https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)
 [![Gmail Badge](https://img.shields.io/badge/-josecastillolema@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josecastillolema@gmail.com)](mailto:josecastillolema@gmail.com)
 
-![](https://img.shields.io/badge/-redhat-c14438?style=flat-square&logo=red-hat&logoColor=white)
-![](https://img.shields.io/badge/-openshift-c14438?style=flat-square&logo=red-hat-open-shift&logoColor=white)
-![](https://img.shields.io/badge/-openstack-c14438?style=flat-square&logo=openstack&logoColor=white)
-
 Cloud ☁️ Consultant at **Red Hat**. 
 
 I've been 🎓 teaching Cloud, DevOps and IoT since 2016 at [**FIAP**](https://www.fiap.com.br/mba/) for post-graduate courses. Feel free to check my repos to check some codes and lectures.
+
+![](https://img.shields.io/badge/-redhat-c14438?style=flat-square&logo=red-hat&logoColor=white)
+![](https://img.shields.io/badge/-openshift-c14438?style=flat-square&logo=red-hat-open-shift&logoColor=white)
+![](https://img.shields.io/badge/-openstack-c14438?style=flat-square&logo=openstack&logoColor=white)
 
 > :octocat: [josecastillolema.github.io](https://josecastillolema.github.io)
