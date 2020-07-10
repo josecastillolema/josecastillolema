@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josecastillolema.josecastillolema)
 [![Linkedin Badge](https://img.shields.io/badge/-josecastillolema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-castillo-lema)](https://www.linkedin.com/in/danielobara/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)](https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)
+[![Gmail Badge](https://img.shields.io/badge/-josecastillolema@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josecastillolema@gmail.com)](mailto:josecastillolema@gmail.com)
