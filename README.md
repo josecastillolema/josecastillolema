@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josecastillolema.josecastillolema)
-[![Github Badge](https://img.shields.io/badge/-josecastillolema-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josecastillolema)](https://github.com/josecastillolema)
-[![Linkedin Badge](https://img.shields.io/badge/-josecastillolema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-castillo-lema)](https://www.linkedin.com/in/jose-castillo-lema/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-josecastillolema-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)](https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)
-[![Gmail Badge](https://img.shields.io/badge/-josecastillolema@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josecastillolema@gmail.com)](mailto:josecastillolema@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josecastillolema)](https://github.com/josecastillolema)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-castillo-lema)](https://www.linkedin.com/in/jose-castillo-lema/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-stack-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)](https://stackoverflow.com/users/4288758/jos%C3%A9-castillo-lema)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josecastillolema@gmail.com)](mailto:josecastillolema@gmail.com)
 
 Cloud ☁️ Consultant at **Red Hat**. 
 
