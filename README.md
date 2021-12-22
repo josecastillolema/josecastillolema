@@ -30,4 +30,4 @@ I've been 🎓 teaching Cloud, DevOps and IoT since 2016 at [**FIAP**](https://w
 
 > :octocat: [josecastillolema.github.io](https://josecastillolema.github.io)
 
-![](https://github-readme-stats.vercel.app/api/?username=josecastillolema&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/?username=josecastillolema&show_icons=true&theme=nord)
