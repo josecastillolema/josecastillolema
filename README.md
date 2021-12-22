@@ -29,3 +29,5 @@ I've been 🎓 teaching Cloud, DevOps and IoT since 2016 at [**FIAP**](https://w
 ![](https://img.shields.io/badge/-openstack-c14438?style=flat-square&logo=openstack&logoColor=white)
 
 > :octocat: [josecastillolema.github.io](https://josecastillolema.github.io)
+
+https://github-readme-stats.vercel.app/api/?username=josecastillolema&show_icons=true
