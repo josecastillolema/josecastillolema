@@ -73,10 +73,14 @@ Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com
 * Huawei Certified ICT Associate - Artificial Intelligence *| HCIA-IA*
 * AWS Certified Developer - Associate *| DVA-C01*
 
+***
+
 ## Patents
 
 * Management orchestrator for a Content-Centric Network in a 6G network
 * Dynamic protocol switching for inter-cluster networking via Virtual Routers in a  multi-cluster computing environment
+
+***
 
 ## Volunteering
 
