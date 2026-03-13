@@ -5,7 +5,7 @@ Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com
 
 ***
 
-## Experience (RH only)
+## Experience (Red Hat only)
 
 **Principal Software Engineer**
 *OCP Perf&Scale | Sept 2024 – Present | 1 year 6 months*
