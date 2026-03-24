@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Cloud ☁️ Architect at **Red Hat**. 
 
-I've been 🎓 teaching Cloud, DevOps and IoT since 2016 for post-graduate courses. Feel free to check my repos for some codes and lectures.
+I've been 🎓 teaching Cloud, DevOps and IoT post-graduate courses since 2016. Feel free to check my repos for some codes and lectures.
 
 ![](https://img.shields.io/badge/-redhat-c14438?style=flat-square&logo=red-hat&logoColor=white)
 ![](https://img.shields.io/badge/-openshift-c14438?style=flat-square&logo=red-hat-open-shift&logoColor=white)
