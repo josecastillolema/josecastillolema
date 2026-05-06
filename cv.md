@@ -1,14 +1,14 @@
 # José Castillo Lema
 
 **Software Engineer**
-Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com/in/jose-castillo-lema/) | [Blog](https://josecastillolema.github.io/) | [GitHub](https://github.com/josecastillolema)
+Madrid, Spain | [josecastillolema@gmail.com](mailto:josecastillolema@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jose-castillo-lema/) | [Blog](https://josecastillolema.github.io/) | [GitHub](https://github.com/josecastillolema)
 
-***
+---
 
 ## Experience (Red Hat only)
 
 **Principal Software Engineer**
-*OCP Perf&Scale | Sept 2024 – Present | 1 year 6 months*
+*OCP Perf&Scale | Sept 2024 – Present*
 
 * Leads the **Continuous Performance Testing (CPT) domain**, responsible for over 100 hundred weekly tests across 5 different platforms.
 * Enabled developers to gain performance insights in the dev stage by **shifting left** performance testing within the downstream Kubernetes CI system **Prow**.
@@ -31,7 +31,7 @@ Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com
 **Consultant**
 *STP | Jul 2019 – Mar 2021 | 1 yr 6 mos*
 
-***
+---
 
 ## Recognition & Development
 
@@ -41,6 +41,8 @@ Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com
 * Red Hat Impact Program Contributor *| 2022*
 * Aspiring Manager Program *| 2021*
 
+
+
 ## Education
 
 **BE, Computer Engineering**
@@ -49,14 +51,14 @@ Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com
 **PhD, Electrical Engineering**
 *Universidade de São Paulo | 2014 – 2019*
 
-***
+---
 
 ## Publications (last 2)
 
 * Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization *| ICPE '26*
 * Bridging Clusters: A Comparative Look at Multi-Cluster Networking Performance in Kubernetes *| ICPE '25*
 
-***
+---
 
 ## Conferences (last 3)
 
@@ -64,23 +66,24 @@ Madrid, Spain | josecastillolema@gmail.com | [LinkedIn](https://www.linkedin.com
 * A Performance Comparison of Kubernetes Multi-Cluster Networking *| FOSDEM '26*
 * AI-Powered Performance Insights *| OVSConf '25*
 
-***
+---
 
-## Certificates (last 4)
+## Certificates (last 5)
 
+* NVIDIA Certified Associate | AI Infrastructure and Operations *| NCA-AIIO* 
 * Red Hat Certified Architect in Infrastructure *| RHCA*
 * Certified Kubernetes Administrator *| CKA*
 * Huawei Certified ICT Associate - Artificial Intelligence *| HCIA-IA*
 * AWS Certified Developer - Associate *| DVA-C01*
 
-***
+---
 
 ## Patents
 
-* Management orchestrator for a Content-Centric Network in a 6G network
 * Dynamic protocol switching for inter-cluster networking via Virtual Routers in a  multi-cluster computing environment
+* Management orchestrator for a Content-Centric Network in a 6G network
 
-***
+---
 
 ## Volunteering
 
