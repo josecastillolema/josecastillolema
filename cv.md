@@ -55,7 +55,7 @@ Madrid, Spain | [josecastillolema@gmail.com](mailto:josecastillolema@gmail.com) 
 
 ## Publications (last 2)
 
-* Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization *| ICPE '26*
+* Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization *| ICPE '26* *|* Best Industry Paper Award
 * Bridging Clusters: A Comparative Look at Multi-Cluster Networking Performance in Kubernetes *| ICPE '25*
 
 ---
