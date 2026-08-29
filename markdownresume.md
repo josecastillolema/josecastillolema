@@ -5,7 +5,7 @@ New setup:
  - Theme: `Fresh`
  - Typography
     * Name: `Overpass Mono`
-    * Font Size: 16.0px
+    * Font Size: 12.8px
     * Line Height: 1.3
     * Heading Scale: 1.1
  - Spacing

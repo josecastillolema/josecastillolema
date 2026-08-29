@@ -8,7 +8,14 @@ Madrid, Spain | [josecastillolema@gmail.com](mailto:josecastillolema@gmail.com) 
 ## Experience (Red Hat only)
 
 **Principal Software Engineer**
-*OCP Perf&Scale | Sept 2024 – Present*
+*Ecosystem Engineering - NVIDIA technical partnership | Jun 2026 – Present*
+
+* Leads **CI and performance/scale efforts** across NVIDIA partnership projects including **DPF**, **GPU Operator** and **Network Operator**.
+* Defines and maintains the **end-to-end testing framework** used across the ecosystem, ensuring consistent validation and release quality.
+* Drives cross-project integration testing and performance benchmarking to identify regressions early in the development cycle.
+
+**Principal Software Engineer**
+*OCP Perf&Scale | Sept 2024 – May 2026 | 1 yr 8 mos*
 
 * Leads the **Continuous Performance Testing (CPT) domain**, responsible for over 100 hundred weekly tests across 5 different platforms.
 * Enabled developers to gain performance insights in the dev stage by **shifting left** performance testing within the downstream Kubernetes CI system **Prow**.
@@ -70,7 +77,7 @@ Madrid, Spain | [josecastillolema@gmail.com](mailto:josecastillolema@gmail.com) 
 
 ## Certificates (last 5)
 
-* NVIDIA Certified Associate | AI Infrastructure and Operations *| NCA-AIIO* 
+* NVIDIA Certified Associate | AI Infrastructure and Operations *| NCA-AIIO*
 * Red Hat Certified Architect in Infrastructure *| RHCA*
 * Certified Kubernetes Administrator *| CKA*
 * Huawei Certified ICT Associate - Artificial Intelligence *| HCIA-IA*
@@ -87,6 +94,7 @@ Madrid, Spain | [josecastillolema@gmail.com](mailto:josecastillolema@gmail.com) 
 
 ## Volunteering
 
+* CNCF Merge Forward *| 2026-Present*
 * Code the Dream - Skill-IT Presenter *| 2024-Present*
 * ONF - Ambassador *| 2020-2024*
 * AWS - Community Builder *| 2021-2023*
