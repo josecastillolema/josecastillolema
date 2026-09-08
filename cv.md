@@ -15,7 +15,7 @@ Madrid, Spain | [josecastillolema@gmail.com](mailto:josecastillolema@gmail.com) 
 * Drives cross-project integration testing and performance benchmarking to identify regressions early in the development cycle.
 
 **Principal Software Engineer**
-*OCP Perf&Scale | Sept 2024 – May 2026 | 1 yr 8 mos*
+*OpenShift Perf&Scale | Sept 2024 – May 2026 | 1 yr 8 mos*
 
 * Leads the **Continuous Performance Testing (CPT) domain**, responsible for over 100 hundred weekly tests across 5 different platforms.
 * Enabled developers to gain performance insights in the dev stage by **shifting left** performance testing within the downstream Kubernetes CI system **Prow**.
